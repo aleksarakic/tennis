@@ -1,4 +1,4 @@
-## Tennis players scraping 
+## Tennis players parsing 
 Requirements for the resultant lists include:
 
 1) Records should list data in the following order:
