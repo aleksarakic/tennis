@@ -12,14 +12,9 @@ LastName, FirstName, Gender, DateOfBirth, FavoriteColor
 
 3) Dates need to be displayed as ##/##/####
 
-4) It is safe to assume that there are never any separators (commas, pipes, spaces, dashes) in any of the
-data, besides the separators themselves.
-
-5) Please use only the standard libraries only. No outside libraries (eg. SQL, etc) are allowed.
-
 #### Running the program:
-1. Extract files to the location where you want the `tennis_scraping` to be extracted
+1. Extract files to the location where you want the `tennis` to be extracted
 2. Open terminal
-3. Change the current working directory to the extracted `tennis_scraping` directory
+3. Change the current working directory to the extracted `tennis` directory
 4. Type `ruby runner.rb` in terminal
-5. Output file is at: `/your/path/tennis_scraping/output_file.txt`
+5. Output file is at: `/your/path/tennis/output_file.txt`
